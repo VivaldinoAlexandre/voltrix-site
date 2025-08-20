@@ -223,7 +223,7 @@
                 <p>Ou entre em contato via WhatsApp: <a href="https://wa.me/55996224416" target="_blank">(67) 99622-4416</a></p>
             </div>
             <div class="assistant">
-                <p>Fale com nosso assistente virtual: <a href="https://wa.me/55996224416?text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20servi%C3%A7os!" target="_blank">Chamar Assistente</a></p>
+                <p>Fale com nosso assistente virtual: <a href="https://wa.me/556796224416?text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20servi%C3%A7os!" target="_blank">Chamar Assistente</a></p>
             </div>
         </section>
     </main>
