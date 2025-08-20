@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/21903338/index.html)
+[index (2).html](https://github.com/user-attachments/files/21904105/index.2.html)
 <script type="text/javascript">
         var gk_isXlsx = false;
         var gk_xlsxFileLookup = {};
@@ -26,7 +26,7 @@
                 if (headerRowIndex === -1 || headerRowIndex > 25) {
                   headerRowIndex = 0;
                 }
-                    
+
                 // Convert filtered JSON back to CSV
                 var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
                 csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
@@ -66,11 +66,10 @@
         }
         header img.logo {
             max-width: 100%;
-            height: 150px;
-            max-height: 150px; /* Ajuste o tamanho máximo da logo, se necessário */
+            height: auto;
         }
         header p {
-            font-size: 2em;
+            font-size: 2em; /* Aumentado apenas para "Soluções completas em elétrica industrial e predial" */
             margin-top: 0.5em;
         }
         .date {
@@ -208,7 +207,7 @@
                 font-size: 1.5em;
             }
             header p {
-                font-size: 1.5em;
+                font-size: 1.5em; /* Ajustado para mobile */
             }
         }
     </style>
@@ -217,7 +216,7 @@
     <header>
         <img src="logo 1.png" alt="Logo Voltrix" class="logo">
         <p>Soluções completas em elétrica industrial e predial</p>
-        <div class="date">Atualizado em: Quarta-feira, 20 de Agosto de 2025, 15:34 PM -03</div>
+        <div class="date">Atualizado em: Quarta-feira, 20 de Agosto de 2025, 13:44 PM -03</div>
     </header>
     <nav>
         <a href="#inicio">Início</a>
@@ -261,10 +260,10 @@
                 <button type="button" onclick="enviarFormulario()">Enviar Mensagem</button>
             </form>
             <div class="whatsapp">
-                <p>Ou entre em contato via WhatsApp: <a href="https://wa.me/5599696224416" target="_blank">(67) 99622-4416</a></p>
+                <p>Ou entre em contato via WhatsApp: <a href="https://wa.me/55996224416" target="_blank">(67) 99622-4416</a></p>
             </div>
             <div class="assistant">
-                <p>Fale com nosso assistente virtual: <a href="https://wa.me/5599696224416?text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20servi%C3%A7os!" target="_blank">Chamar Assistente</a></p>
+                <p>Fale com nosso assistente virtual: <a href="https://wa.me/55996224416?text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20servi%C3%A7os!" target="_blank">Chamar Assistente</a></p>
             </div>
         </section>
     </main>
