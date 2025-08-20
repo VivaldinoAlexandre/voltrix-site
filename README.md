@@ -66,7 +66,7 @@
         }
         header img.logo {
             max-width: 100%;
-            height: auto;
+            height: 150px;
             max-height: 150px; /* Ajuste o tamanho máximo da logo, se necessário */
         }
         header p {
