@@ -174,7 +174,7 @@
 </head>
 <body>
     <header>
-        <img src="logo1.jpg" alt="Logo Voltrix" class="logo">
+        <img src="./img/logo1.jpg" alt="Logo Voltrix" class="logo">
         <p>Soluções completas em elétrica industrial e predial</p>
         <div class="date">Atualizado em: Quarta-feira, 20 de Agosto de 2025, 13:44 PM -03</div>
     </header>
