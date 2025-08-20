@@ -1,4 +1,4 @@
-[index (2).html](https://github.com/user-attachments/files/21904105/index.2.html)
+[index (3).html](https://github.com/user-attachments/files/21904474/index.3.html)
 <script type="text/javascript">
         var gk_isXlsx = false;
         var gk_xlsxFileLookup = {};
@@ -214,7 +214,7 @@
 </head>
 <body>
     <header>
-        <img src="logo1.jpg" class="logo">
+        <img src="logo1.jpg" alt="Logo Voltrix" class="logo">
         <p>Soluções completas em elétrica industrial e predial</p>
         <div class="date">Atualizado em: Quarta-feira, 20 de Agosto de 2025, 13:44 PM -03</div>
     </header>
@@ -263,10 +263,11 @@
                 <p>Ou entre em contato via WhatsApp: <a href="https://wa.me/55996224416" target="_blank">(67) 99622-4416</a></p>
             </div>
             <div class="assistant">
-                <p>Fale com nosso assistente virtual: <a href="https://wa.me/556796224416?text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20servi%C3%A7os!" target="_blank">Chamar Assistente</a></p>
+                <p>Fale com nosso assistente virtual: <a href="https://wa.me/55996224416?text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20servi%C3%A7os!" target="_blank">Chamar Assistente</a></p>
             </div>
         </section>
     </main>
+    <footer>
         <p>&copy; 2025 Voltrix - Instalações Elétricas. Todos os direitos reservados.</p>
     </footer>
     <script>
