@@ -174,7 +174,8 @@
 </head>
 <body>
     <header>
-        <img src="logo1.jpg" alt="Logo Voltrix" class="logo">
+        <img src="https://github.com/user-attachments/assets/94db7e11-f880-4cba-9244-83da156a69a8" />
+.jpg" alt="Logo Voltrix" class="logo">
         <p>Soluções completas em elétrica industrial e predial</p>
     </header>
     <nav>
